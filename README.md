@@ -1,4 +1,7 @@
-# Graph_path_calculate
+# Graph_path_calculate( python package)
+
+
+
 Calculate number of paths given length(number of edges)  of the adjaceny matrix 
 
 #input is an adjacent matrix
