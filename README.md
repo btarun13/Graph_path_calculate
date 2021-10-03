@@ -1,7 +1,7 @@
 # Graph_path_calculate
 Calculate number of paths given length(number of edges)  of the adjaceny matrix 
 
-#a   =  [,1] [,2] [,3] [,4] [,5]
+# a   =  [,1] [,2] [,3] [,4] [,5]
 #  [1,]    0    1    0    1    1
 #  [2,]    1    0    0    1    1
 #  [3,]    0    0    0    1    1
